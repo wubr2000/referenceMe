@@ -1,10 +1,8 @@
 'use strict';
 
 angular.module('referenceMeApp')
-  .controller('CategoriesCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('CategoriesCtrl', function ($scope, $rootScope) {
+
+  	$scope.hipchatdata = hipchatLinks;
+  	
   });

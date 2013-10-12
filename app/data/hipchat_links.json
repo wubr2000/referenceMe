@@ -27,7 +27,7 @@ var hipchatLinks = [
     "date": "2013-09-30T08:16:52+00:00",
     "name": "Eddie Lau",
     "url": "https://github.com/3dd13/yeoman_webapp_github_example",
-    "tag": "javascript",
+    "tag": "Github",
   },
   {
     "date": "2013-09-30T09:22:06+00:00",
@@ -45,7 +45,7 @@ var hipchatLinks = [
     "date": "2013-10-01T08:43:01+00:00",
     "name": "Matt Nodurfth",
     "url": "http://www.youtube.com/watch?v=bZUpQN_u_kk",
-    "tag": "javascript",
+    "tag": "Funny",
   },
   {
     "date": "2013-10-02T01:08:14+00:00",
@@ -63,13 +63,13 @@ var hipchatLinks = [
     "date": "2013-10-02T01:39:13+00:00",
     "name": "Eddie Lau",
     "url": "https://github.com/3dd13/yeoman_webapp_github_example/wiki/Publish-your-web-page-to-github.io",
-    "tag": "javascript",
+    "tag": "Github",
   },
   {
     "date": "2013-10-02T01:58:34+00:00",
     "name": "Eddie Lau",
     "url": "http://3dd13.github.io/yeoman_webapp_github_example/",
-    "tag": "javascript",
+    "tag": "Github",
   },
   {
     "date": "2013-10-02T02:29:24+00:00",
@@ -93,7 +93,7 @@ var hipchatLinks = [
     "date": "2013-10-02T09:15:01+00:00",
     "name": "Matt Nodurfth",
     "url": "http://i.imgur.com/qrLEV.gif",
-    "tag": "javascript",
+    "tag": "Funny",
   },
   {
     "date": "2013-10-02T13:03:06+00:00",
@@ -153,13 +153,13 @@ var hipchatLinks = [
     "date": "2013-10-03T01:22:53+00:00",
     "name": "Bruno Wu",
     "url": "http://ruby-doc.org/core-2.0.0/",
-    "tag": "javascript",
+    "tag": "Ruby",
   },
   {
     "date": "2013-10-03T01:22:53+00:00",
     "name": "Bruno Wu",
     "url": "http://www.rubeque.com/problems",
-    "tag": "javascript",
+    "tag": "Ruby",
   },
   {
     "date": "2013-10-03T01:22:53+00:00",
@@ -177,7 +177,7 @@ var hipchatLinks = [
     "date": "2013-10-03T01:22:53+00:00",
     "name": "Bruno Wu",
     "url": "https://github.com/wubr2000",
-    "tag": "javascript",
+    "tag": "Github",
   },
   {
     "date": "2013-10-03T01:23:14+00:00",
@@ -699,7 +699,7 @@ var hipchatLinks = [
     "date": "2013-10-08T11:40:29+00:00",
     "name": "Matt Nodurfth",
     "url": "https://github.com/ga-students/WDI_HK_1/tree/master/HKWDI_Project1",
-    "tag": "javascript",
+    "tag": "Github",
   },
   {
     "date": "2013-10-08T11:57:13+00:00",
@@ -717,7 +717,7 @@ var hipchatLinks = [
     "date": "2013-10-09T05:49:02+00:00",
     "name": "Josiah Hatch",
     "url": "http://www.youtube.com/watch?v=Yn-oemgzlEU&feature=c4-overview-vl&list=PLfNe3nGQENtP3VCn1t1pybju9ffSPBohU",
-    "tag": "javascript",
+    "tag": "Funny",
   },
   {
     "date": "2013-10-10T01:49:20+00:00",
@@ -728,7 +728,7 @@ var hipchatLinks = [
   {
     "date": "2013-10-10T03:25:47+00:00",
     "name": "Eddie Lau",
-    "url": "http://nodeos.github.io/",
+    "url": "http://nodeos.gith`ub.io/",
     "tag": "javascript",
   },
   {

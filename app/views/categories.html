@@ -1,1 +1,8 @@
-<p>This is the categories view.</p>
+<h3><u>{{category}}</u></h3>
+
+<ul>
+	<input data-ng-model = "searchText"></input><br/>
+	
+	<li data-ng-repeat="hipchat in hipchatdata | filter:{tag:category} | filter: searchText"><a href="">{{hipchat.url}}</a></li>
+</ul>
+

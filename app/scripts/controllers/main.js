@@ -3,13 +3,11 @@
 angular.module('referenceMeApp')
   .controller('MainCtrl', function ($scope, $rootScope) {
     
-  	$scope.tags = ["Javascript","HTML","CSS","Funny"];
+    $scope.tags = ["Javascript","HTML","CSS","Funny","Github","Ruby"];
+  	
   	$scope.clicklink = function (tag) {
   		$rootScope.category = tag;
+  		window.location.href = "#/categories";
   	};
 
-    //$scope.hipchatLinks = hipchatLinks;
-
-    //console.log($scope.hipchatLinks[1].url);
-    //console.log($scope.hipchatLinks[1]);
   });
