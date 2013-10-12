@@ -1,8 +1,12 @@
 <h3><u>{{category}}</u></h3>
 
 <ul>
-	<input data-ng-model = "searchText"></input><br/>
 	
-	<li data-ng-repeat="hipchat in hipchatdata | filter:{tag:category} | filter: searchText"><a href="">{{hipchat.url}}</a></li>
+	<li data-ng-repeat="hipchat in hipchatdata | filter:{tag:category}">
+
+		<a href="">{{hipchat.url}}</a><br/>
+		<p>{{hipchat.comment}}</p><br/>
+
+	</li>
 </ul>
 
